@@ -10,3 +10,4 @@ Handcrafted Haven aims to revolutionize the way handcrafted items are discovered
 - Gabriel Chagas Boff
 - Oliver William Modesto Santillan
 - Anderson Moroni Ramos
+- Ojeaga Benjamin Clifford
